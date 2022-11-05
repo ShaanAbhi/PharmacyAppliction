@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "spring.security.oauth2.resourceserver.mvc.pathmatch.matching-strategy",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.oauth2.resourceserver.mvc.pathmatch.matching-strategy'"
+  },
+  {
+    "name": "spring.security.oauth2.resourceserver.jwt.jwt.issuer-uri",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.oauth2.resourceserver.jwt.jwt.issuer-uri'"
+  },
+  {
+    "name": "spring.security.logging.level.root",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.logging.level.root'"
+  },
+  {
+    "name": "spring.security.logging.level.org.springframework.web",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.security.logging.level.org.springframework.web'"
+  },
+  {
+    "name": "spring.jpa.hibernate.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.show-sql'"
+  }
+]}
